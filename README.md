@@ -36,8 +36,8 @@ npm run lint
 ### Formas de iniciar sesión:
 
 Por ejemplo: 
-Email - "john@mail.com" / Contraseña - "changeme"
-Email - "maria@mail.com" / Contraseña - "12345"
+- Email - "john@mail.com" / Contraseña - "changeme"
+- Email - "maria@mail.com" / Contraseña - "12345"
 
 ### Configuración:
 
