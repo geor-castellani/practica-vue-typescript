@@ -20,7 +20,7 @@ El menú tendrá dos enlaces, uno para la vista de listado de productos y otro
 para la vista del perfil. El botón de logout borrará el token guardado de todos
 los sitios donde esté y navegará al login.
 
-### Para su ejecución
+### Para su ejecución:
 ```
 npm install
 ```
