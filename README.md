@@ -1,9 +1,7 @@
 # Online shop: práctica web Typescript + Vue
 
 En ésta práctica realizaremos una pequeña simulación de una tienda. Para
-ello nos serviremos de la API de pruebas de Platzi:
-- https://fakeapi.platzi.com/
-Para las conexiones a esta API nos serviremos de axios.
+ello nos serviremos de la API de pruebas de Platziy para las conexiones a esta API nos serviremos de axios.
 
 La aplicación consta de 4 vistas muy sencillas. Se pueden hacer todos los
 componentes que se deseen, pero sólo será necesario entregar estas cuatro
