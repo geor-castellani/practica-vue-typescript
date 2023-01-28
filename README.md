@@ -2,6 +2,10 @@
 
 Ésta es mi resolución de la práctica, pueden ver la página haciendo click en éste link: https://geor-castellani.github.io/practica-vue-typescript/#/login
 
+**Para iniciar sesión utilizar alguna de las siguientes credenciales:**
+- Email - "john@mail.com" / Contraseña - "changeme"
+- Email - "maria@mail.com" / Contraseña - "12345"
+
 En ésta práctica realizaremos una pequeña simulación de una tienda. Para
 ello nos serviremos de la API de pruebas de Platziy para las conexiones a esta API nos serviremos de axios.
 
@@ -35,12 +39,6 @@ npm run build
 ```
 npm run lint
 ```
-### Formas de iniciar sesión:
-
-Por ejemplo: 
-- Email - "john@mail.com" / Contraseña - "changeme"
-- Email - "maria@mail.com" / Contraseña - "12345"
-
 ### Configuración:
 
 Ver [Configuration Reference](https://cli.vuejs.org/config/).
