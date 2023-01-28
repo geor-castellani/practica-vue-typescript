@@ -1,5 +1,7 @@
 # Online shop: práctica web Typescript + Vue
 
+Ésta es mi resolución de la práctica, pueden ver la página haciendo click en éste link: https://geor-castellani.github.io/practica-vue-typescript/#/login
+
 En ésta práctica realizaremos una pequeña simulación de una tienda. Para
 ello nos serviremos de la API de pruebas de Platziy para las conexiones a esta API nos serviremos de axios.
 
