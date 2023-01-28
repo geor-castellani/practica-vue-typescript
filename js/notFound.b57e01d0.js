@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpractica_vue_typescript"]=self["webpackChunkpractica_vue_typescript"]||[]).push([[449],{9157:function(r,t,e){e.r(t),e.d(t,{default:function(){return p}});var c=e(6252);function n(r,t){return(0,c.wg)(),(0,c.iD)("h1",null,"Error 404")}var u=e(3744);const a={},i=(0,u.Z)(a,[["render",n]]);var p=i}}]);
+//# sourceMappingURL=notFound.b57e01d0.js.map
